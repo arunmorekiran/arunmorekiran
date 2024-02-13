@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arun
-- 👀 I’m interested in wweb development 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on github
 
